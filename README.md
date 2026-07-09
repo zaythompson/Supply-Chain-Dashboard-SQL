@@ -95,3 +95,8 @@ Organizations rely on accurate supply chain data to monitor supplier performance
 - Supply Chain Analytics
 - DAX
 - Executive Reporting
+
+- 
+Prepared By
+
+Zayna Thompson
