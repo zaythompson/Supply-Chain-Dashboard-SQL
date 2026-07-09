@@ -97,6 +97,6 @@ Organizations rely on accurate supply chain data to monitor supplier performance
 - Executive Reporting
 
 - 
-Prepared By
+## Prepared By
 
-Zayna Thompson
+**Zayna Thompson**
